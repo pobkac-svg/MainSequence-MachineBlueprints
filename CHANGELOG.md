@@ -1,6 +1,7 @@
 # Changelog
 
-## Planned 0.0.19
+## 0.1.0
 
-- MSCore-compatible packaging and dependency metadata.
-- Native migration verification pending; not released.
+- MSCore-backed release.
+- Preserves existing tested gameplay.
+- Includes MIT licence and Manager metadata.
